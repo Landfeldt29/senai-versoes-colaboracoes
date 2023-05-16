@@ -1,3 +1,4 @@
 # senai-versoes-colaboracoes
 
-Teste brabo do curso
+lembrei do comando: git status
+
